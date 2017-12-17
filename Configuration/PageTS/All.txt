@@ -1,0 +1,7 @@
+#
+# PageTS for TYPO3 Theme Boilerplate
+#
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:typo3_theme_boilerplate/Configuration/PageTS/RTE.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:typo3_theme_boilerplate/Configuration/PageTS/TCEFORM.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:typo3_theme_boilerplate/Configuration/PageTS/TCEMAIN.txt">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:typo3_theme_boilerplate/Configuration/PageTS/Mod/WebLayout/BackendLayouts.txt">
