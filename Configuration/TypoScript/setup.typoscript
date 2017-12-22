@@ -128,7 +128,7 @@ page {
     }
 
     includeCSS {
-        typo3_theme_boilerplate_layout = EXT:typo3_theme_boilerplate/Resources/Public/Css/layout.min.css
+        typo3_theme_boilerplate = EXT:typo3_theme_boilerplate/Resources/Public/Css/style.css
     }
 
     includeJSLibs {
@@ -144,7 +144,7 @@ page {
     }
 
     includeJSFooter {
-        typo3_theme_boilerplate_scripts = EXT:typo3_theme_boilerplate/Resources/Public/JavaScript/Dist/scripts.js
+        typo3_theme_boilerplate = EXT:typo3_theme_boilerplate/Resources/Public/JavaScript/main.js
     }
 }
 
