@@ -145,6 +145,9 @@ page {
 
     includeJSFooter {
         typo3_theme_boilerplate = EXT:typo3_theme_boilerplate/Resources/Public/JavaScript/main.js
+        typo3_theme_boilerplate {
+            async = 1
+        }
     }
 }
 
